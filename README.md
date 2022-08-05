@@ -1,5 +1,5 @@
-# PKUAutoBookingVenues
-PKU智慧场馆自动预约工具
+# NJtechAutoBookingVenues
+南京工业大学智慧场馆自动预约工具
 
 部分代码和这个README的一部分引用自大佬的自动报备项目 https://github.com/Bruuuuuuce/PKUAutoSubmit
 
